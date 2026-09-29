@@ -138,20 +138,6 @@ Different visualization techniques were used to understand patterns, trends, and
 
 ---
 
-## 📸 Project Preview
-
-> Add screenshots of your important charts and visualizations here.
-
-Example:
-
-```markdown
-![Sales Analysis](images/sales_analysis.png)
-
-![Profit Analysis](images/profit_analysis.png)
-```
-
----
-
 ## 💡 Key Insights
 
 The analysis can be used to identify:
@@ -177,12 +163,7 @@ E-commerce-Full-Project/
 ├── notebooks/
 │   └── E-commerce_Data_Analysis.ipynb
 │
-├── images/
-│   └── project_visualizations.png
-│
 ├── README.md
-│
-└── requirements.txt
 ```
 
 ---
