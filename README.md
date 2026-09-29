@@ -206,7 +206,7 @@ Jupyter Notebook
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/Akash-Kheto/Ecommerce-Analysis-with-Python.git
 ```
 
 ### 2. Navigate to the Project Folder
